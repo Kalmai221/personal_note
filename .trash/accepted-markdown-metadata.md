@@ -12,4 +12,5 @@ author:
 	url: "URL to a pic for the author"
 ogImage:
 	url: "URL to an image to set the og Image for SEO"
+
 ```
